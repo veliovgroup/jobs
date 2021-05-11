@@ -1,8 +1,10 @@
 # Job board
 
-This repository hold job posts for [NEAR Protocol](https://near.org) ecosystem. All jobs organized in [its issues](https://github.com/veliovgroup/jobs/issues). Please, follow our [ISSUE_TEMPLATE](https://github.com/veliovgroup/jobs/blob/main/.github/ISSUE_TEMPLATE) when posting a new job.
+This repository hold job posts for [NEAR Protocol](https://near.org) ecosystem. All jobs organized in [its issues](https://github.com/veliovgroup/jobs/issues). Please, follow our [ISSUE_TEMPLATE](https://github.com/veliovgroup/jobs/blob/main/.github/ISSUE_TEMPLATE/new-job-post.md) when posting a new job.
 
-## TEMPLATE
+DO NOT USE THIS REPOSITORY ISSUES DIRECTLY, for fully-featured access to open positions and its management sign-in via [jobs.openweb.dev](https://jobs.openweb.dev/).
+
+## JOB TEMPLATE
 
 - __Project:__ [`profiles/#1`](https://github.com/veliovgroup/profiles/issues/#1)
 - __Type:__ `full-time`|`project`|`freelance`|`bounty`
