@@ -4,6 +4,8 @@ This repository hold job posts for [NEAR Protocol](https://near.org) ecosystem. 
 
 DO NOT USE THIS REPOSITORY ISSUES DIRECTLY, for fully-featured access to open positions and its management sign-in via [jobs.openweb.dev](https://jobs.openweb.dev/).
 
+![NEAR Job board](https://jobs.openweb.dev/social-1280x640.png)
+
 ## JOB TEMPLATE
 
 - __Project:__ [`profiles/#1`](https://github.com/veliovgroup/profiles/issues/#1)
