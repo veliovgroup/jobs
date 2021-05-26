@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-- __Project:__ https://github.com/veliovgroup/profiles/issues/#1
+- __Project:__ https://github.com/near/openweb-profiles/issues/#1
 - __Type:__ full-time|project|freelance|bounty
 - __Category:__ engineering|design|customer-support|research|other
 - __Location:__ country:city
